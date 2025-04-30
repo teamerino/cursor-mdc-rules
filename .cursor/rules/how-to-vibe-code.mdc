@@ -1,0 +1,10 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+# How to vibe code
+
+- Use Powershell command in the terminal
+- Just execute yarn dev once in the terminal. Nuxt has hotreload and does not need to start again after each modification.
+- Do not open an additional terminal to perform yarn dev again

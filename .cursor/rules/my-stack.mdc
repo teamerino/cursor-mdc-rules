@@ -1,0 +1,15 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+
+# Your rule content
+
+- Create a Nuxt.js App using the latest LTS version
+- Use Typescript in Strict Mode
+- Use tailwindcss
+- Use yarn
+- There is no backend yet
+- Ther Terminal is not Linux, it is Powershell
+- Use node version 18.x
