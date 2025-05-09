@@ -11,5 +11,4 @@ alwaysApply: true
 - Use tailwindcss
 - Use yarn
 - There is no backend yet
-- Ther Terminal is not Linux, it is Powershell
 - Use node version 18.x
